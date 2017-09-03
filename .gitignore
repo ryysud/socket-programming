@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# echo server bin
+c/TCPEchoClient
+c/TCPEchoServer
